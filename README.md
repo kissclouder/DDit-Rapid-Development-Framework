@@ -4,7 +4,7 @@
 Jquery     Bootstrap  Jquery-UI
 
 ### 开发工具
-VS2013 SQLService2008R2
+VS2013 SQLServer2008R2
 
 # 开发提示
 数据库文件放在App_Code 文件夹里面，直接附加修改web.config 即可链接
@@ -33,7 +33,7 @@ DDit.Core.Data.RepositoryL类库下Repositories文件夹  例如： “XXXReposi
 # 技术交流
 
 框架是作者单独完成的，公司已经使用完成一个项目，相信里面还有很多BUG和很多不足的地方，希望使用的小伙伴们谅解并反馈给作者及时更新，相互学习。
-作者QQ：286463642 微信也可以找到我，欢迎来质询。
+框架交流群QQ：413426654 微信也可以找到我，欢迎来质询。
 
 
 
